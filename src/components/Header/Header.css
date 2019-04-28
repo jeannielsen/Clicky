@@ -1,0 +1,17 @@
+h1 {
+    color:red;
+}
+
+.header {
+    text-align: center;
+}
+h4 {
+    color: rgb(195, 0, 255);
+}
+.container {
+    width: 75%;
+    text-justify: left;
+    color: black;
+    font-weight: bold;
+
+}

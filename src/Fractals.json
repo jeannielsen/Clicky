@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Fractal1",
+        "image": "https://fractals.erucolindo3.com/images/blue-eggs.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Fractal2",
+        "image": "https://i.pinimg.com/originals/c8/c8/e4/c8c8e4aba9999b77ddf6c4bdfffb636e.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fractal3",
+        "image": "https://fractalformulas.files.wordpress.com/2017/05/170422-1a.png"
+    },
+    {
+        "id": 4,
+        "name": "Fractal4",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_LF99dgpeVnApjiT3ujsAiQn_EaCJZHEuXZykcozhjEm3Nddlg"
+    },
+    {
+        "id": 5,
+        "name": "Fractal5",
+        "image": "https://steemitimages.com/DQmNouvK7uGhQvdyG5YsroLAqHgBwXkL4qXAi37TzYSVs7y/343.png"
+    },
+    {
+        "id": 6,
+        "name": "Fractal6",
+        "image": "https://steemitimages.com/DQmaFGz657id31QEQTLe75BKeRmmaEK9yCKHDYPw5uwgYTv/334.png"
+    },
+    {
+        "id": 7,
+        "name": "Fractal7",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjx_Gl6m9ieQOvh1ff07YR0O9JB6t2VguVF-nrzlsgy8pSf84Y"
+    },
+    {
+        "id": 8,
+        "name": "Fractal8",
+        "image": "https://bw-1651cf0d2f737d7adeab84d339dbabd3-gallery.s3.amazonaws.com/images/image_453537/file_453537.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Fractal9",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRak7Ksxfpzpc3cQO57gFFySJjB_w0kTYvWgQeeIJ-lliZdvn6E"
+    },
+    {
+        "id": 10,
+        "name": "Fractal10",
+        "image": "https://steemitimages.com/DQmUcq1byZHaMMnM5zccFsCYAAmDBotRyAKntrT3PcBVXVp/21408.png"
+    },
+    {
+        "id": 11,
+        "name": "Fractal11",
+        "image": "https://i2.wp.com/www.linuxlinks.com/wp-content/uploads/2018/09/Fractals.png?resize=750%2C235&ssl=1"
+    },
+    {
+        "id": 12,
+        "name": "Fractal12",
+        "image": "https://cdn.solacore.net/ipfs/2018-10-13/QmTg244b9FcP9yJxEDfWgNsj1APSjGFEFR2K11p6ABvu3g.jpg"
+    }
+]
